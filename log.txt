@@ -421,3 +421,58 @@ Setting description
 Adding default .gitignore
 Syncing /volume1/SOLDERED products/Soldered products/Power-red/Li-ion charger to Li-ion-charger-hardware-design
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Komunikacija-yellow/LIN Transceiver NCV7329 SLAVE breakout/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log.txt
+
+[main e4cdefb] Updating open source files.
+ 1 file changed, 55 insertions(+)
+https://github.com/SolderedElectronics/LIN-Transceiver-NCV7329-SLAVE-breakout-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Komunikacija-yellow/I2C bus extender P82B715 breakout/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Komunikacija-yellow/Low power GNSS breakout ZOE-M8B/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of jpgs 0
+ - Wrong number of zips 0
+/volume1/SOLDERED products/Soldered products/Learn to solder kits-white/Analog LED Dice Solder Kit/OUTPUTS/V1.1.1: missing files in OUTPUTS
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+ - Wrong number of zips 0
+ - Wrong number of csv 0
+ - Wrong number of html 0
+/volume1/SOLDERED products/Soldered products/Learn to solder kits-white/Soldered OLED Desktop Screen Kit/OUTPUTS/V2.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+ - Wrong number of zips 0
+ - Wrong number of csv 0
+ - Wrong number of html 0
+/volume1/SOLDERED products/Soldered products/Learn to solder kits-white/VU Meter ESP32 Solder Kit/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+ - Wrong number of zips 0
+/volume1/SOLDERED products/Soldered products/Learn to solder kits-white/Piano Solder kit/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Learn to solder kits-white/Dasduino CORE Solder kit/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Learn to solder kits-white/Clap switch Solder kit/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+ - Wrong number of zips 0
+ - Wrong number of csv 0
+ - Wrong number of html 0
+/volume1/SOLDERED products/Soldered products/Power-red/Li-ion charger/OUTPUTS/V1.1.1: all files are present, commiting...
+Li-ion-charger-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Power-red/Li-ion charger to Li-ion-charger-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Komunikacija-yellow/LIN Transceiver NCV7329 SLAVE breakout/.git/
