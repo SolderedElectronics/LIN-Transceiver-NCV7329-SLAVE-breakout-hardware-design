@@ -1,10 +1,12 @@
-## --- Product name --- Hardware design
+## LIN Transceiver NCV7329 SLAVE breakout Hardware design
 
 | ![Product name](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :----------------------------------------------------------: |
-|      [--- product name ----](https://www.solde.red/SKU)      |
+|      [Buy LIN Transceiver NCV7329 SLAVE breakout](https://www.solde.red/SKU)      |
 
------- product description ------
+LIN (Local Interconnect Network) is a serial network protocol used for communication between components in cars. The LIN bus is an alternative to the CAN bus, and the difference is that LIN has a lower speed and supports a smaller number of simultaneous devices, but also has drastically lower costs. LIN is used for communication between microcontrollers. The operating voltage is 18V.
+
+This Breakout has a SLAVE role. Master/Slave is a communication model where one device (Master) controls one or more devices (Slave), and the Slave then listens to the commands it receives from the Master. One Master on the LIN protocol can control up to 16 devices.
 
 ## Repository contents
 
